@@ -1,0 +1,25 @@
+{
+  "name": "dustforce",
+  "version": "1.0.0",
+  "description": "A discord bot linking a bunch of dustforce related systems together.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "twit": "^2.2.11",
+    "twitch-helix-api": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoLifeJoel/Dustforce.git"
+  },
+  "author": "NoLifeJoel",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/NoLifeJoel/Dustforce/issues"
+  },
+  "homepage": "https://github.com/NoLifeJoel/Dustforce#readme"
+}
